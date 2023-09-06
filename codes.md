@@ -1,3 +1,6 @@
+def get_gold_price(date):
+
+
 # web link is created according to the API manual of FRED.
 # params has the dictionary for this web link.
 # json is a good way to do this in Python.
